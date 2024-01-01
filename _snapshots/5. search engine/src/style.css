@@ -6,7 +6,6 @@ body {
 a {
   color: #885df1;
 }
-
 .weather-app {
   background: white;
   max-width: 600px;
@@ -85,7 +84,6 @@ main {
   margin-top: 16px;
   font-size: 28px;
 }
-
 footer {
   border-top: 1px solid #f9f7fe;
   padding: 30px 0 0 0;
